@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@900&display=swap");
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  color: #5b83ff;
+  font-size: 40px;
+  text-decoration: none;
+}
+
+.logo_pic {
+  height: 80px;
+  width: 80px;
+}
+
+/* text shouldn't be bold, fix later */
+.text {
+  font-family: "Work Sans", sans-serif;
+  text-decoration: none;
+  color: #261209;
+}
